@@ -2,7 +2,7 @@
 
 `content_table_analysis` Cleaned data with additional measures of content (i.e., PC scores).
 
-`covid_rates` Cleaned data table from NYT COVID-19 reporting project containing daily COVID-19 case rates by county (courtesy of Linda Zhao, Jeff Cai, Chenyang Fang, Farnik Nikakhtar, Nicholas Parkes, Sam Rosenberg, and Wu Zhu)
+`covid_rates` Cleaned data table from NYT COVID-19 reporting project containing daily COVID-19 case rates by county (courtesy of Linda Zhao, Jeff Cai, and Sam Rosenberg)
 
 `DiDtable` Data table necessary to run the difference-in-differences study per script `4 Analyses`.
 
