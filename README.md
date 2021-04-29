@@ -19,4 +19,4 @@ As `0 Wayback Gathering` and `1 Web Scraping` are computationally intensive and 
 
 In addition, we have provided cleaned versions of the data tables necessary to run `4 Analyses` as a standalone, which we suggest in the interests of time. However, we have also provided the files necessary to run `3 Data Cleaning` as a standalone.
 
-Acknowledgments: We thank Linda Zhao, Jeff Cai, and Sam Rosenberg for allowing use of their cleaned version of the NYT COVID-19 reporting data.
+Acknowledgments: We thank Linda Zhao, Jeff Cai, and Sam Rosenberg for allowing use of their cleaned version of the NYT COVID-19 reporting data. Data are sourced from College Crisis Initiative (https://collegecrisis.org/), IPEDS (https://nces.ed.gov/ipeds/), and the New York Times (https://github.com/nytimes/covid-19-data).
