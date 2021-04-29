@@ -18,3 +18,5 @@ We have included all R scripts necessary to conduct the project from start to fi
 As `0 Wayback Gathering` and `1 Web Scraping` are computationally intensive and involve web scraping, and `2 Create Content Table` involves analyzing the raw outputs of `1 Web Scraping` which, for size issues, we have **NOT** included here, we suggest not running those scripts (if you do run the scripts, you must start from the beginning and run all scripts).
 
 In addition, we have provided cleaned versions of the data tables necessary to run `4 Analyses` as a standalone, which we suggest in the interests of time. However, we have also provided the files necessary to run `3 Data Cleaning` as a standalone.
+
+Acknowledgments: We thank Linda Zhao, Jeff Cai, and Sam Rosenberg for allowing use of their cleaned version of the NYT COVID-19 reporting data.
